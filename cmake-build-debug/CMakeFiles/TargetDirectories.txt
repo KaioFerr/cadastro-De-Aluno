@@ -1,0 +1,3 @@
+C:/Users/Kaio/Desktop/Unifagoc/Cpp/exerciciosStructSubprogramas/cmake-build-debug/CMakeFiles/exerciciosStructSubprogramas.dir
+C:/Users/Kaio/Desktop/Unifagoc/Cpp/exerciciosStructSubprogramas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kaio/Desktop/Unifagoc/Cpp/exerciciosStructSubprogramas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
