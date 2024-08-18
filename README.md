@@ -1,4 +1,4 @@
-# Exercícios de Programação
+# Exercícios de Programação / Struct e Subprogramas
 
 Este repositório contém uma série de exercícios de programação em C++ da disciplina Estrutura de Dados da UNIFAGOC. Cada exercício é projetado para praticar conceitos básicos da linguagem, como structs, funções, e cálculos. Você pode baixar o repositório e executar o programa principal para testar todos os exercícios.
 
