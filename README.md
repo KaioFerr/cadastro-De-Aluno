@@ -18,6 +18,7 @@ Construa um programa que calcule e apresente o resultado da conversão de 0 a 10
 
 ### Exercício 5: Classificação de Nadador
 Faça um procedimento que recebe a idade de um nadador por parâmetro e informa a categoria desse nadador de acordo com a tabela fornecida.
+
 ![image](https://github.com/user-attachments/assets/651b1fc6-af18-4b27-abc5-3012c6d1df79)
 
 ### Exercício 6: Cálculo de Peso Ideal
